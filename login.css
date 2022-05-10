@@ -19,13 +19,13 @@ header {
 }
 
 .login, .criarConta, .redesSociais {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 700;
 }
 
 #senha {
     display: flex;
-    font-size: 15px;
+    font-size: 12px;
     text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ label {
     background-color: rgb(19, 11, 54);
     color: white;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 20px;
     
 }
 
@@ -71,7 +71,7 @@ label {
 }
 
 .redesSociais {
-    font-size: 25px;
+    font-size: 30px;
     color:  rgb(19, 11, 54);
 }
 
